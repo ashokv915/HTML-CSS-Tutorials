@@ -1,0 +1,47 @@
+html,body {
+    background-color: rgb(216, 206, 206);
+}
+
+.title {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+.equation {
+    color: green;
+    text-align: center;
+}   
+
+.center {
+    text-align: center;
+}
+
+.imageHolder {
+    position: relative;
+    text-align: center;
+}
+
+.bullet {
+    font-size: large;
+    font-weight:bold;
+}
+
+.name {
+    margin-left: 30px;
+}
+
+.footer {
+    font-size: larger;
+    color: rgb(241, 25, 241);
+}
+
+.link {
+    font-style: italic;
+    color: rgb(36, 168, 168);
+    text-decoration: none;
+}
+
+figcaption {
+    font-size: large;
+}
